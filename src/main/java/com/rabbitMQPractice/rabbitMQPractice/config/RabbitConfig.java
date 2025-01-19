@@ -16,4 +16,6 @@ public class RabbitConfig {
         }});
         return converter;
     }
+
+
 }
